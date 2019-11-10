@@ -1,0 +1,11 @@
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\bin\Release\WinSCP.exe
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\bin\Release\SftpAuditFilesService.exe.config
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\bin\Release\SftpAuditFilesService.exe
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\bin\Release\SftpAuditFilesService.pdb
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\bin\Release\WinSCPnet.dll
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Release\SftpAuditFilesService.AuditFileServis.resources
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Release\SftpAuditFilesService.csproj.GenerateResource.cache
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Release\SftpAuditFilesService.csproj.CoreCompileInputs.cache
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Release\SftpAuditFilesService.csproj.CopyComplete
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Release\SftpAuditFilesService.exe
+C:\Users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Release\SftpAuditFilesService.pdb
