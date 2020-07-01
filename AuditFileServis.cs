@@ -1,4 +1,5 @@
-﻿using SFPTClient;
+﻿using AuditFileLibrary;
+using SFPTClient;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -47,9 +48,12 @@ namespace SftpAuditFilesService
 
         void timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
-            ProcessFiles();
+            //ProcessFiles();
+            AuditFileComponent component = new AuditFileComponent();
+            component.ProcessFiles();
         }
 
+        /*
         private void ProcessFiles()
         {
             string controlId = "";
@@ -90,5 +94,6 @@ namespace SftpAuditFilesService
                 }
             }
         }
+        */
     }
 }

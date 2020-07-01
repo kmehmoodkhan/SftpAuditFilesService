@@ -10,3 +10,17 @@ c:\users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Deb
 c:\users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.exe
 c:\users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.pdb
 c:\users\kausar\source\repos\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.csprojAssemblyReference.cache
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\bin\Debug\WinSCP.exe
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\bin\Debug\SftpAuditFilesService.exe.config
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\bin\Debug\SftpAuditFilesService.exe
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\bin\Debug\SftpAuditFilesService.pdb
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\bin\Debug\AuditFileLibrary.dll
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\bin\Debug\WinSCPnet.dll
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\bin\Debug\AuditFileLibrary.pdb
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.csprojAssemblyReference.cache
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.AuditFileServis.resources
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.csproj.GenerateResource.cache
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.csproj.CoreCompileInputs.cache
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.csproj.CopyComplete
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.exe
+D:\Kausar\Wyn\SftpAuditFilesService\SftpAuditFilesService\obj\Debug\SftpAuditFilesService.pdb

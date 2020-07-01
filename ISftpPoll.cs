@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace SFPTClient
 {
-    public interface ISftpPoll
-    {
-        string[] GetLatestFiles();
+    //public interface ISftpPoll
+    //{
+    //    string[] GetLatestFiles();
 
-        string[] DownloadLatestFiles(string[] files);
+    //    string[] DownloadLatestFiles(string[] files);
 
-        FileContent[] ExtractZipFiles(string[] files);
+    //    FileContent[] ExtractZipFiles(string[] files);
 
-        DBResult AddXmlData(FileContent xmlData);
-        void SendEmail(int recordsProcessed);
-        string GetXmlOutput(List<DBResult> dBResults);
+    //    DBResult AddXmlData(FileContent xmlData);
+    //    void SendEmail(int recordsProcessed);
+    //    string GetXmlOutput(List<DBResult> dBResults);
 
-        bool UploadDocument(string docPath);
-    }
+    //    bool UploadDocument(string docPath);
+    //}
 }
